@@ -15,7 +15,7 @@
     "jade": "^1.9.2",
     "method-override": "^2.3.2",
     "morgan": "^1.5.2",
-    "nodemailer": "^1.3.4",
+    "nodemailer": "^6.6.1",
     "ping": "^0.1.9",
     "request": "^2.34.0",
     "serve-favicon": "^2.2.0",
